@@ -11,6 +11,10 @@ routers = ["192.168.20.1", "192.168.20.2",
 # print(">> Router at 4 is on IP:", routers[4])
 
 # for i in range(0, 5):                     # i : 0, 1, 2, 3, 4
+
+# for i in range(0, 5, 1):    # Less than 5 i.e. till 4
+# for i in range(5, 0, -1):   # Till 0
+
 # len is a built in function -> it will return the value as 5
 for i in range(0, len(routers)):
     print(">> Router at", i, "is on IP:", routers[i])
