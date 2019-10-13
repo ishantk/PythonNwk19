@@ -4,5 +4,8 @@ def fun(*args, **kwargs):
     print(kwargs)
 
 
-fun(10, 20, 30, 40, 50, "hello", a=10, b=20, c=30)
+
+a = int(input("Enter a"))
+
+fun(a, 20, 30, 40, 50, "hello", a=10, b=20, c=30)
 
