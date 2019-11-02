@@ -1,4 +1,6 @@
 # Class Vs Object
+# Whatever is in the Class  -> Belongs to Class
+# In the class whatever is with self -> Belongs to Object
 
 class FoodItem:
 
@@ -35,6 +37,8 @@ item3.decrementQuantity()
 
 item1.showFoodItem()
 item3.showFoodItem()
+
+# FoodItem.showFoodItem(item1)
 
 print(">> item1 is:", item1)
 print(">> item2 is:", item2)
