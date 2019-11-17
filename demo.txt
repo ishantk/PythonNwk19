@@ -1,0 +1,279 @@
+AP Config
+Cisco AP Identifier.............................. 0
+Cisco AP Name.................................... alcndwt0001
+Country code..................................... ES  - Spain
+Regulatory Domain allowed by Country............. 802.11bg:-E     802.11a:-E
+AP Country code.................................. ES  - Spain
+AP Regulatory Domain............................. -E
+Switch Port Number .............................. 1
+MAC Address...................................... d8:b1:90:7e:5f:14
+IP Address Configuration......................... Static IP assigned
+IP Address....................................... 10.225.176.10
+IP NetMask....................................... 255.255.255.192
+Gateway IP Addr.................................. 10.225.176.1
+Domain...........................................
+Name Server......................................
+NAT External IP Address.......................... None
+CAPWAP Path MTU.................................. 1485
+DHCP Release Override............................ Disabled
+Telnet State..................................... Globally Disabled
+Ssh State........................................ Globally Enabled
+Cisco AP Location................................ default location
+Cisco AP Floor Label............................. 0
+Cisco AP Group Name.............................. default-group
+Primary Cisco Switch Name........................
+Primary Cisco Switch IP Address.................. Not Configured
+Secondary Cisco Switch Name......................
+Secondary Cisco Switch IP Address................ Not Configured
+Tertiary Cisco Switch Name.......................
+Tertiary Cisco Switch IP Address................. Not Configured
+Administrative State ............................ ADMIN_ENABLED
+Operation State ................................. REGISTERED
+Mirroring Mode .................................. Disabled
+AP Mode ......................................... Local
+Public Safety ................................... Disabled
+ATF Mode: ....................................... Disable
+AP SubMode ...................................... Not Configured
+Rogue Detection ................................. Enabled
+Remote AP Debug ................................. Disabled
+Logging trap severity level ..................... informational
+Logging syslog facility ......................... kern
+S/W  Version .................................... 8.2.164.0
+Boot  Version ................................... 15.2.4.0
+Mini IOS Version ................................ 8.0.115.0
+Stats Reporting Period .......................... 180
+Stats Collection Mode ........................... normal
+Radio Core Mode ................................. Disabled
+Slub Debug Mode ................................. Disabled
+LED State........................................ Enabled
+PoE Pre-Standard Switch.......................... Disabled
+PoE Power Injector MAC Addr...................... Disabled
+Power Type/Mode.................................. PoE/Medium Power (15.4 W)
+Number Of Slots.................................. 2
+AP Model......................................... AIR-CAP3702I-E-K9
+AP Image......................................... C3700-K9W8-M
+IOS Version...................................... 15.3(3)JC9$
+Reset Button..................................... Enabled
+AP Serial Number................................. FCW1922N303
+AP Certificate Type.............................. Manufacture Installed
+AP Lag Status ................................... Disable
+AP User Mode..................................... AUTOMATIC
+AP User Name..................................... netops
+AP Dot1x User Mode............................... Not Configured
+AP Dot1x User Name............................... Not Configured
+Cisco AP system logging host..................... 255.255.255.255
+AP Core Dump Config.............................. Disabled
+AP Up Time....................................... 227 days, 21 h 47 m 34 s
+AP LWAPP Up Time................................. 227 days, 21 h 45 m 39 s
+Join Date and Time............................... Sat Mar 30 09:53:22 2019
+Join Taken Time.................................. 0 days, 00 h 01 m 54 s
+
+AP Config
+Cisco AP Identifier.............................. 0
+Cisco AP Name.................................... alcndwt0001
+Country code..................................... ES  - Spain
+Regulatory Domain allowed by Country............. 802.11bg:-E     802.11a:-E
+AP Country code.................................. ES  - Spain
+AP Regulatory Domain............................. -E
+Switch Port Number .............................. 1
+MAC Address...................................... d8:b1:90:7e:5f:14
+IP Address Configuration......................... Static IP assigned
+IP Address....................................... 10.225.176.10
+IP NetMask....................................... 255.255.255.192
+Gateway IP Addr.................................. 10.225.176.1
+Domain...........................................
+Name Server......................................
+NAT External IP Address.......................... None
+CAPWAP Path MTU.................................. 1485
+DHCP Release Override............................ Disabled
+Telnet State..................................... Globally Disabled
+Ssh State........................................ Globally Enabled
+Cisco AP Location................................ default location
+Cisco AP Floor Label............................. 0
+Cisco AP Group Name.............................. default-group
+Primary Cisco Switch Name........................
+Primary Cisco Switch IP Address.................. Not Configured
+Secondary Cisco Switch Name......................
+Secondary Cisco Switch IP Address................ Not Configured
+Tertiary Cisco Switch Name.......................
+Tertiary Cisco Switch IP Address................. Not Configured
+Administrative State ............................ ADMIN_ENABLED
+Operation State ................................. REGISTERED
+Mirroring Mode .................................. Disabled
+AP Mode ......................................... Local
+Public Safety ................................... Disabled
+ATF Mode: ....................................... Disable
+AP SubMode ...................................... Not Configured
+Rogue Detection ................................. Enabled
+Remote AP Debug ................................. Disabled
+Logging trap severity level ..................... informational
+Logging syslog facility ......................... kern
+S/W  Version .................................... 8.2.164.0
+Boot  Version ................................... 15.2.4.0
+Mini IOS Version ................................ 8.0.115.0
+Stats Reporting Period .......................... 180
+Stats Collection Mode ........................... normal
+Radio Core Mode ................................. Disabled
+Slub Debug Mode ................................. Disabled
+LED State........................................ Enabled
+PoE Pre-Standard Switch.......................... Disabled
+PoE Power Injector MAC Addr...................... Disabled
+Power Type/Mode.................................. PoE/Medium Power (15.4 W)
+Number Of Slots.................................. 2
+AP Model......................................... AIR-CAP3702I-E-K9
+AP Image......................................... C3700-K9W8-M
+IOS Version...................................... 15.3(3)JC9$
+Reset Button..................................... Enabled
+AP Serial Number................................. FCW1922N303
+AP Certificate Type.............................. Manufacture Installed
+AP Lag Status ................................... Disable
+AP User Mode..................................... AUTOMATIC
+AP User Name..................................... netops
+AP Dot1x User Mode............................... Not Configured
+AP Dot1x User Name............................... Not Configured
+Cisco AP system logging host..................... 255.255.255.255
+AP Core Dump Config.............................. Disabled
+AP Up Time....................................... 227 days, 21 h 47 m 34 s
+AP LWAPP Up Time................................. 227 days, 21 h 45 m 39 s
+Join Date and Time............................... Sat Mar 30 09:53:22 2019
+Join Taken Time.................................. 0 days, 00 h 01 m 54 s
+
+AP Config
+Cisco AP Identifier.............................. 0
+Cisco AP Name.................................... alcndwt0001
+Country code..................................... ES  - Spain
+Regulatory Domain allowed by Country............. 802.11bg:-E     802.11a:-E
+AP Country code.................................. ES  - Spain
+AP Regulatory Domain............................. -E
+Switch Port Number .............................. 1
+MAC Address...................................... d8:b1:90:7e:5f:14
+IP Address Configuration......................... Static IP assigned
+IP Address....................................... 10.225.176.10
+IP NetMask....................................... 255.255.255.192
+Gateway IP Addr.................................. 10.225.176.1
+Domain...........................................
+Name Server......................................
+NAT External IP Address.......................... None
+CAPWAP Path MTU.................................. 1485
+DHCP Release Override............................ Disabled
+Telnet State..................................... Globally Disabled
+Ssh State........................................ Globally Enabled
+Cisco AP Location................................ default location
+Cisco AP Floor Label............................. 0
+Cisco AP Group Name.............................. default-group
+Primary Cisco Switch Name........................
+Primary Cisco Switch IP Address.................. Not Configured
+Secondary Cisco Switch Name......................
+Secondary Cisco Switch IP Address................ Not Configured
+Tertiary Cisco Switch Name.......................
+Tertiary Cisco Switch IP Address................. Not Configured
+Administrative State ............................ ADMIN_ENABLED
+Operation State ................................. REGISTERED
+Mirroring Mode .................................. Disabled
+AP Mode ......................................... Local
+Public Safety ................................... Disabled
+ATF Mode: ....................................... Disable
+AP SubMode ...................................... Not Configured
+Rogue Detection ................................. Enabled
+Remote AP Debug ................................. Disabled
+Logging trap severity level ..................... informational
+Logging syslog facility ......................... kern
+S/W  Version .................................... 8.2.164.0
+Boot  Version ................................... 15.2.4.0
+Mini IOS Version ................................ 8.0.115.0
+Stats Reporting Period .......................... 180
+Stats Collection Mode ........................... normal
+Radio Core Mode ................................. Disabled
+Slub Debug Mode ................................. Disabled
+LED State........................................ Enabled
+PoE Pre-Standard Switch.......................... Disabled
+PoE Power Injector MAC Addr...................... Disabled
+Power Type/Mode.................................. PoE/Medium Power (15.4 W)
+Number Of Slots.................................. 2
+AP Model......................................... AIR-CAP3702I-E-K9
+AP Image......................................... C3700-K9W8-M
+IOS Version...................................... 15.3(3)JC9$
+Reset Button..................................... Enabled
+AP Serial Number................................. FCW1922N303
+AP Certificate Type.............................. Manufacture Installed
+AP Lag Status ................................... Disable
+AP User Mode..................................... AUTOMATIC
+AP User Name..................................... netops
+AP Dot1x User Mode............................... Not Configured
+AP Dot1x User Name............................... Not Configured
+Cisco AP system logging host..................... 255.255.255.255
+AP Core Dump Config.............................. Disabled
+AP Up Time....................................... 227 days, 21 h 47 m 34 s
+AP LWAPP Up Time................................. 227 days, 21 h 45 m 39 s
+Join Date and Time............................... Sat Mar 30 09:53:22 2019
+Join Taken Time.................................. 0 days, 00 h 01 m 54 s
+
+AP Config
+Cisco AP Identifier.............................. 0
+Cisco AP Name.................................... alcndwt0001
+Country code..................................... ES  - Spain
+Regulatory Domain allowed by Country............. 802.11bg:-E     802.11a:-E
+AP Country code.................................. ES  - Spain
+AP Regulatory Domain............................. -E
+Switch Port Number .............................. 1
+MAC Address...................................... d8:b1:90:7e:5f:14
+IP Address Configuration......................... Static IP assigned
+IP Address....................................... 10.225.176.10
+IP NetMask....................................... 255.255.255.192
+Gateway IP Addr.................................. 10.225.176.1
+Domain...........................................
+Name Server......................................
+NAT External IP Address.......................... None
+CAPWAP Path MTU.................................. 1485
+DHCP Release Override............................ Disabled
+Telnet State..................................... Globally Disabled
+Ssh State........................................ Globally Enabled
+Cisco AP Location................................ default location
+Cisco AP Floor Label............................. 0
+Cisco AP Group Name.............................. default-group
+Primary Cisco Switch Name........................
+Primary Cisco Switch IP Address.................. Not Configured
+Secondary Cisco Switch Name......................
+Secondary Cisco Switch IP Address................ Not Configured
+Tertiary Cisco Switch Name.......................
+Tertiary Cisco Switch IP Address................. Not Configured
+Administrative State ............................ ADMIN_ENABLED
+Operation State ................................. REGISTERED
+Mirroring Mode .................................. Disabled
+AP Mode ......................................... Local
+Public Safety ................................... Disabled
+ATF Mode: ....................................... Disable
+AP SubMode ...................................... Not Configured
+Rogue Detection ................................. Enabled
+Remote AP Debug ................................. Disabled
+Logging trap severity level ..................... informational
+Logging syslog facility ......................... kern
+S/W  Version .................................... 8.2.164.0
+Boot  Version ................................... 15.2.4.0
+Mini IOS Version ................................ 8.0.115.0
+Stats Reporting Period .......................... 180
+Stats Collection Mode ........................... normal
+Radio Core Mode ................................. Disabled
+Slub Debug Mode ................................. Disabled
+LED State........................................ Enabled
+PoE Pre-Standard Switch.......................... Disabled
+PoE Power Injector MAC Addr...................... Disabled
+Power Type/Mode.................................. PoE/Medium Power (15.4 W)
+Number Of Slots.................................. 2
+AP Model......................................... AIR-CAP3702I-E-K9
+AP Image......................................... C3700-K9W8-M
+IOS Version...................................... 15.3(3)JC9$
+Reset Button..................................... Enabled
+AP Serial Number................................. FCW1922N303
+AP Certificate Type.............................. Manufacture Installed
+AP Lag Status ................................... Disable
+AP User Mode..................................... AUTOMATIC
+AP User Name..................................... netops
+AP Dot1x User Mode............................... Not Configured
+AP Dot1x User Name............................... Not Configured
+Cisco AP system logging host..................... 255.255.255.255
+AP Core Dump Config.............................. Disabled
+AP Up Time....................................... 227 days, 21 h 47 m 34 s
+AP LWAPP Up Time................................. 227 days, 21 h 45 m 39 s
+Join Date and Time............................... Sat Mar 30 09:53:22 2019
+Join Taken Time.................................. 0 days, 00 h 01 m 54 s
